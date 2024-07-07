@@ -4,7 +4,7 @@
 `semantic-image-search` is a web-based application that allows users to perform semantic searches on a collection of images using either textual descriptions or image inputs. 
 It leverages the OpenAI's CLIP model for embedding extraction and Milvus for efficient similarity search.
 
-![Demo SIS]("https://github.com/sefaburakokcu/semantic-image-search/tree/main/assets/demo.gif")
+![Demo SIS](./assets/demo.gif)
 
 
 ## Features
